@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "car_showcase",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
